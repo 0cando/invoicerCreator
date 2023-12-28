@@ -1,0 +1,30 @@
+.Inputs {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 600px;
+    margin: 0px auto;
+    justify-content: center;
+    align-items: center;
+}
+.caja {
+    padding: 15px;
+}
+
+.caja input{
+    padding: 15px;
+}
+
+h4 {
+    font-size: 20px;
+    margin: 10px;
+    padding: 0px;
+}
+
+.btnInvoice {
+    margin: 20px;
+}
+
+.btnReiniciar {
+    background-color: rgb(168, 33, 33);
+}
